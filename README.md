@@ -1,1 +1,1 @@
-# psd-desin
+# psd-design
